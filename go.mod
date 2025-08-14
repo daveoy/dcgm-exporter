@@ -161,3 +161,5 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.6.0 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
+
+replace github.com/NVIDIA/go-dcgm => github.com/daveoy/go-dcgm v0.0.0-20250814014434-77b2a6ea9961
